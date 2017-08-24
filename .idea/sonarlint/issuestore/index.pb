@@ -1,0 +1,19 @@
+
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+|
+Lsecondlibrary/src/main/java/com/example/secondlibrary/SecondLibActivity.java,1/5/157a457ad3bca76b63d3e748ec4c731d062f8104
+V
+&mylibrary/src/main/AndroidManifest.xml,9/6/96b1da1bcfd41bc2b1d4c1e14de318643546d7c9
+Z
+*secondlibrary/src/main/AndroidManifest.xml,2/0/20be69a9deabadc5535d35b260b555d0873c0fd9
+F
+mylibrary/build.gradle,d/4/d43f940f29892ef8b432abd33f4e27ed43d2784a
+J
+secondlibrary/build.gradle,0/8/0841a0b805e22d3f16648e9d35f4b6477d4cfbed
+r
+Bmylibrary/src/main/java/com/example/mylibrary/MainLibActivity.java,0/4/042fa157a9d042f92ba5107319e76eb103c5f971
+t
+Dapp/src/main/java/com/example/nikita/myapplication/MainActivity.java,c/0/c06aabbbbe7f6aa60123681bf940a2f7d0080caa
